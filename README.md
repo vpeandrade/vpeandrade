@@ -4,24 +4,6 @@
 
 Me chamo Vinicius Pereira Andrade, tenho 22 anos e sou natural de Brasília. Realizei diversos cursos na área de programação, incluindo Algoritmos e Lógica de Programação, HTML5 e CSS3, JavaScript e Python. Pretendo iniciar em breve o curso de Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meus projetos e aprendizados por meio do meu GitHub.
 
-<p align="left">
-    <a href="vinipeandrade@gmail.com">
-        <img 
-            alt="mail" 
-            title="Meu gmail" 
-            src="https://custom-icon-badges.demolab.com/badge/Mail-E61B23.svg?logo=mail"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/vinicius-pereira-andrade-859680299/">
-        <img 
-            alt="linkedin" 
-            title="Meu LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white" 
-        />
-    </a>
-</p>
-
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
