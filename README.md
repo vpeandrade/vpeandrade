@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Vinicius Pereira Andrade, tenho 22 anos e sou natural de Brasília. Realizei diversos cursos na área de programação, incluindo Algoritmos e Lógica de Programação, HTML5 e CSS3, JavaScript e Python. Pretendo iniciar em breve o curso de Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meus projetos e aprendizados por meio do meu GitHub.
+Me chamo Vinicius Pereira Andrade, tenho 22 anos e sou natural de Brasília. Realizei diversos cursos na área de programação, incluindo Algoritmos e Lógica de Programação, HTML5 e CSS3, JavaScript e Python. Estudante de Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meus projetos e aprendizados por meio do meu GitHub.
 
 ---
 
